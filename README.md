@@ -2,8 +2,8 @@
 
 Berikut ini adalah beberapa soal Fisika 2 yang saya gunakan untuk tugas asistensi. Bab soal yang diberikan terdiri dari Gaya Coulomb (1 Soal), Medan Listrik (3 Soal), Potensial Listrik (4 Soal). Seluruh soal diperoleh dari buku Elektromagnetik 1 karangan Prof. Yohanes Surya. Pembahasan dilakukan secara mandiri yang kemudian diketik dalam $\LaTeX$ menggunakan TeXStudio.
 
-<div>
-[center]<img src="https://user-images.githubusercontent.com/93019427/232763821-4e337eb5-2fca-455e-a28f-b69bc7e21800.png" width="500"/>[\center]
+<div style="text-align: center;">
+<img src="https://user-images.githubusercontent.com/93019427/232763821-4e337eb5-2fca-455e-a28f-b69bc7e21800.png" width="500"/>
 </div>
 
 ![](https://user-images.githubusercontent.com/93019427/232765724-a4b36dda-2eda-4c7a-9d90-88aa67212f27.png)
